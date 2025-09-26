@@ -21,6 +21,7 @@ body {
   background-color: var(--color-white);
   border-radius: 20px;
   box-shadow: 8px 8px 0px black;
+  border: solid 1px black;
 }
 .image-section img {
   width: 100%;
